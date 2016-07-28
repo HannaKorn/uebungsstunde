@@ -5,7 +5,7 @@ puts meinArray
 
 #String als Zeichenkette
 
-text =  "Kind"
+text =  "Github"
 laenge = text.length
 laenge.times do |i|
   puts text[i]    #puts ist verantwortlich dafür dass es untereinander gezeigt wird
